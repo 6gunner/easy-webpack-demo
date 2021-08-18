@@ -12,5 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "easywebpack": "^5.1.0"
-  }
+  },
+  "devDependencies": {}
 }
