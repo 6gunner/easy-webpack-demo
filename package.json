@@ -1,0 +1,16 @@
+{
+  "name": "easy-webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "cross-env BUILD_ENV=dev easy start",
+    "tool-start": "cross-env VIEW=development node build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "easywebpack": "^5.1.0"
+  }
+}
